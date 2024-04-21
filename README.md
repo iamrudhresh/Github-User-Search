@@ -16,13 +16,6 @@ GitHub User Search is a React-based web application that enables users to search
 
 ## Technologies Used
 
-- React
+- React JS
+- JavaScript
 - GitHub API
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
